@@ -1,2 +1,2 @@
-#!/bin/ban
-export PATH=$PATH:/action
+#!/bin/bash
+PATH=$PATH:/action
